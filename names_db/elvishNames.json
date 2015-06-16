@@ -4739,6 +4739,7 @@
 
 
 
+
 "elvish":"Haldis",
 "description":"Exalted/Tall/High (hall) Bride (dîs)",
 "transcription":"hall+dîs",
@@ -5963,6 +5964,7 @@
 "prime_theme":"1",
 "sub_theme":"1_2"
 },{
+
 "elvish":"Banniel",
 "description":"Prison (band) Daughter of / Girl (iell)",
 "transcription":"band+iell",
@@ -6126,6 +6128,7 @@
 "elvish":"Iossel",
 "description":"Sanctuary (iaun) Daughter, Maiden or Girl (sell)",
 "transcription":"iaun+sell",
+
 "gender":"f",
 "age_relationship":"c",
 "prime_theme":"1",
@@ -9102,6 +9105,7 @@
 "elvish":"Lhéves",
 "description":"Thread (lhê) Wife / Married Woman (bess)",
 "transcription":"lhê+bess",
+
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"1",
@@ -9623,6 +9627,7 @@
 "description":"Born After (abonnen) Female (eth)",
 "transcription":"abonnen+eth",
 "gender":"f",
+
 "age_relationship":"",
 "prime_theme":"1",
 "sub_theme":"1_4"
@@ -14774,6 +14779,7 @@
 "prime_theme":"1",
 "sub_theme":"1_6"
 },{
+
 "elvish":"Gulthel",
 "description":"Sorcery (gûl) Sister (thêl)",
 "transcription":"gûl+thêl",
@@ -20786,6 +20792,7 @@
 "sub_theme":"2_1"
 },{
 "elvish":"Rames",
+
 "description":"To Wander (ran) Wife / Married Woman (bess)",
 "transcription":"ran+bess",
 "gender":"f",
@@ -21570,80 +21577,81 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Aduialdir",
-"description":"Evendim [a place, evening twilight or second twilight] (aduial) Young Man (d&#238;r)",
-"transcription":"aduial+d&#238;r",
+"description":"Evendim [a place, evening twilight or second twilight] (aduial) Young Man (dîr)",
+"transcription":"aduial+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Caenir",
-"description":"Lair (caew) Young Man (d&#238;r)",
-"transcription":"caew+d&#238;r",
+"description":"Lair (caew) Young Man (dîr)",
+"transcription":"caew+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Carasdir",
-"description":"City (caras) Young Man (d&#238;r)",
-"transcription":"caras+d&#238;r",
+"description":"City (caras) Young Man (dîr)",
+"transcription":"caras+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Echadir",
-"description":"Camp (echad) Young Man (d&#238;r)",
-"transcription":"echad+d&#238;r",
+"description":"Camp (echad) Young Man (dîr)",
+"transcription":"echad+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Estoladir",
-"description":"Encampment (estolad) Young Man (d&#238;r)",
-"transcription":"estolad+d&#238;r",
+"description":"Encampment (estolad) Young Man (dîr)",
+"transcription":"estolad+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Gathrodir",
-"description":"Cave (gathrod) Young Man (d&#238;r)",
-"transcription":"gathrod+d&#238;r",
+"description":"Cave (gathrod) Young Man (dîr)",
+"transcription":"gathrod+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Gobeldir",
-"description":"Town (gobel) Young Man (d&#238;r)",
-"transcription":"gobel+d&#238;r",
+"description":"Town (gobel) Young Man (dîr)",
+"transcription":"gobel+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Lossamdir",
-"description":"Empty Chamber (lost+sam) Young Man (d&#238;r)",
-"transcription":"lossam+d&#238;r",
+"description":"Empty Chamber (lost+sam) Young Man (dîr)",
+"transcription":"lossam+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Minasdir",
-"description":"Tower (minas) Young Man (d&#238;r)",
-"transcription":"minas+d&#238;r",
+"description":"Tower (minas) Young Man (dîr)",
+"transcription":"minas+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Mindondir",
-"description":"Hill/Tower (mindon) Young Man (d&#238;r)",
-"transcription":"mindon+d&#238;r",
+"description":"Hill/Tower (mindon) Young Man (dîr)",
+
+"transcription":"mindon+dîr",
 "gender":"m",
 "age_relationship":"y",
 "prime_theme":"2",
@@ -22522,152 +22530,152 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Aduialnith",
-"description":"Evendim [a place, evening twilight or second twilight] (aduial) Sister (n&#238;th)",
-"transcription":"aduial+n&#238;th",
+"description":"Evendim [a place, evening twilight or second twilight] (aduial) Sister (nîth)",
+"transcription":"aduial+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Aduialthel",
-"description":"Evendim [a place, evening twilight or second twilight] (aduial) Sister (th&#234;l)",
-"transcription":"aduial+th&#234;l",
+"description":"Evendim [a place, evening twilight or second twilight] (aduial) Sister (thêl)",
+"transcription":"aduial+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Barnith",
-"description":"Dwelling/Home (bar) Sister (n&#238;th)",
-"transcription":"bar+n&#238;th",
+"description":"Dwelling/Home (bar) Sister (nîth)",
+"transcription":"bar+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Barthel",
-"description":"Dwelling/Home (bar) Sister (th&#234;l)",
-"transcription":"bar+th&#234;l",
+"description":"Dwelling/Home (bar) Sister (thêl)",
+"transcription":"bar+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Baranith",
-"description":"Tower/Fortress (barad) Sister (n&#238;th)",
-"transcription":"barad+n&#238;th",
+"description":"Tower/Fortress (barad) Sister (nîth)",
+"transcription":"barad+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Barathel",
-"description":"Tower/Fortress (barad) Sister (th&#234;l)",
-"transcription":"barad+th&#234;l",
+"description":"Tower/Fortress (barad) Sister (thêl)",
+"transcription":"barad+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Caewnith",
-"description":"Lair (caew) Sister (n&#238;th)",
-"transcription":"caew+n&#238;th",
+"description":"Lair (caew) Sister (nîth)",
+"transcription":"caew+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Caethel",
-"description":"Lair (caew) Sister (th&#234;l)",
-"transcription":"caew+th&#234;l",
+"description":"Lair (caew) Sister (thêl)",
+"transcription":"caew+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Echanith",
-"description":"Camp (echad) Sister (n&#238;th)",
-"transcription":"echad+n&#238;th",
+"description":"Camp (echad) Sister (nîth)",
+"transcription":"echad+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Echathel",
-"description":"Camp (echad) Sister (th&#234;l)",
-"transcription":"echad+th&#234;l",
+"description":"Camp (echad) Sister (thêl)",
+"transcription":"echad+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Estolanith",
-"description":"Encampment (estolad) Sister (n&#238;th)",
-"transcription":"estolad+n&#238;th",
+"description":"Encampment (estolad) Sister (nîth)",
+"transcription":"estolad+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Estolathel",
-"description":"Encampment (estolad) Sister (th&#234;l)",
-"transcription":"estolad+th&#234;l",
+"description":"Encampment (estolad) Sister (thêl)",
+"transcription":"estolad+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Gathronith",
-"description":"Cave (gathrod) Sister (n&#238;th)",
-"transcription":"gathrod+n&#238;th",
+"description":"Cave (gathrod) Sister (nîth)",
+"transcription":"gathrod+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Gathrothel",
-"description":"Cave (gathrod) Sister (th&#234;l)",
-"transcription":"gathrod+th&#234;l",
+"description":"Cave (gathrod) Sister (thêl)",
+"transcription":"gathrod+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Gobelnith",
-"description":"Town (gobel) Sister (n&#238;th)",
-"transcription":"gobel+n&#238;th",
+"description":"Town (gobel) Sister (nîth)",
+"transcription":"gobel+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Gobelthel",
-"description":"Town (gobel) Sister (th&#234;l)",
-"transcription":"gobel+th&#234;l",
+"description":"Town (gobel) Sister (thêl)",
+"transcription":"gobel+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Hodthel",
-"description":"Tomb (haudh) Sister (th&#234;l)",
-"transcription":"haudh+th&#234;l",
+"description":"Tomb (haudh) Sister (thêl)",
+"transcription":"haudh+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Mindonith",
-"description":"Hill/Tower (mindon) Sister (n&#238;th)",
-"transcription":"mindon+n&#238;th",
+"description":"Hill/Tower (mindon) Sister (nîth)",
+"transcription":"mindon+nîth",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
 "sub_theme":"2_2"
 },{
 "elvish":"Mindonthel",
-"description":"Hill/Tower (mindon) Sister (th&#234;l)",
-"transcription":"mindon+th&#234;l",
+"description":"Hill/Tower (mindon) Sister (thêl)",
+"transcription":"mindon+thêl",
 "gender":"f",
 "age_relationship":"b_s",
 "prime_theme":"2",
@@ -22821,6 +22829,7 @@
 "description":"Fortress (garth) Teenage Girl (neth)",
 "transcription":"garth+neth",
 "gender":"f",
+
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
@@ -22962,8 +22971,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Aduialdis",
-"description":"Evendim [a place, evening twilight or second twilight] (aduial) Bride (d&#238;s)",
-"transcription":"aduial+d&#238;s",
+"description":"Evendim [a place, evening twilight or second twilight] (aduial) Bride (dîs)",
+"transcription":"aduial+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -22978,8 +22987,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Bardis",
-"description":"Dwelling/Home (bar) Bride (d&#238;s)",
-"transcription":"bar+d&#238;s",
+"description":"Dwelling/Home (bar) Bride (dîs)",
+"transcription":"bar+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -22994,8 +23003,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Baradis",
-"description":"Tower/Fortress (barad) Bride (d&#238;s)",
-"transcription":"barad+d&#238;s",
+"description":"Tower/Fortress (barad) Bride (dîs)",
+"transcription":"barad+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23010,8 +23019,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Caewnis",
-"description":"Lair (caew) Bride (d&#238;s)",
-"transcription":"caew+d&#238;s",
+"description":"Lair (caew) Bride (dîs)",
+"transcription":"caew+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23026,8 +23035,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Carasdis",
-"description":"City (caras) Bride (d&#238;s)",
-"transcription":"caras+d&#238;s",
+"description":"City (caras) Bride (dîs)",
+"transcription":"caras+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23042,8 +23051,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Echadis",
-"description":"Camp (echad) Bride (d&#238;s)",
-"transcription":"echad+d&#238;s",
+"description":"Camp (echad) Bride (dîs)",
+"transcription":"echad+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23058,8 +23067,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Estoladis",
-"description":"Encampment (estolad) Bride (d&#238;s)",
-"transcription":"estolad+d&#238;s",
+"description":"Encampment (estolad) Bride (dîs)",
+"transcription":"estolad+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23074,8 +23083,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Gathrodis",
-"description":"Cave (gathrod) Bride (d&#238;s)",
-"transcription":"gathrod+d&#238;s",
+"description":"Cave (gathrod) Bride (dîs)",
+"transcription":"gathrod+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23090,8 +23099,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Gobeldis",
-"description":"Town (gobel) Bride (d&#238;s)",
-"transcription":"gobel+d&#238;s",
+"description":"Town (gobel) Bride (dîs)",
+"transcription":"gobel+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23106,8 +23115,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Lossamdis",
-"description":"Empty Chamber (lost+sam) Bride (d&#238;s)",
-"transcription":"lossam+d&#238;s",
+"description":"Empty Chamber (lost+sam) Bride (dîs)",
+"transcription":"lossam+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23122,8 +23131,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Minasdis",
-"description":"Tower (minas) Bride (d&#238;s)",
-"transcription":"minas+d&#238;s",
+"description":"Tower (minas) Bride (dîs)",
+"transcription":"minas+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23138,8 +23147,8 @@
 "sub_theme":"2_2"
 },{
 "elvish":"Mindondis",
-"description":"Hill/Tower (mindon) Bride (d&#238;s)",
-"transcription":"mindon+d&#238;s",
+"description":"Hill/Tower (mindon) Bride (dîs)",
+"transcription":"mindon+dîs",
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"2",
@@ -23169,17 +23178,17 @@
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"C&#238;l",
-"description":"Cleft/Gorge (c&#238;l) Neutral (no suffix) (-)",
-"transcription":"c&#238;l+-",
+"elvish":"Cîl",
+"description":"Cleft/Gorge (cîl) Neutral (no suffix) (-)",
+"transcription":"cîl+-",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"C&#237;lben",
-"description":"Cleft/Gorge (c&#238;l) Person, one (pen)",
-"transcription":"c&#238;l+pen",
+"elvish":"Cílben",
+"description":"Cleft/Gorge (cîl) Person, one (pen)",
+"transcription":"cîl+pen",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23201,17 +23210,17 @@
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"D&#244;l",
-"description":"Hill/Mountain (d&#244;l) Neutral (no suffix) (-)",
-"transcription":"d&#244;l+-",
+"elvish":"Dôl",
+"description":"Hill/Mountain (dôl) Neutral (no suffix) (-)",
+"transcription":"dôl+-",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Dolben",
-"description":"Hill/Mountain (d&#244;l) Person, one (pen)",
-"transcription":"d&#244;l+pen",
+"description":"Hill/Mountain (dôl) Person, one (pen)",
+"transcription":"dôl+pen",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23321,33 +23330,33 @@
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"I&#226;",
-"description":"Abyss (i&#226;) Neutral (no suffix) (-)",
-"transcription":"i&#226;+-",
+"elvish":"Iâ",
+"description":"Abyss (iâ) Neutral (no suffix) (-)",
+"transcription":"iâ+-",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Iaben",
-"description":"Abyss (i&#226;) Person, one (pen)",
-"transcription":"i&#226;+pen",
+"description":"Abyss (iâ) Person, one (pen)",
+"transcription":"iâ+pen",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"I&#244;l",
-"description":"Flood Plain (i&#244;l) Neutral (no suffix) (-)",
-"transcription":"i&#244;l+-",
+"elvish":"Iôl",
+"description":"Flood Plain (iôl) Neutral (no suffix) (-)",
+"transcription":"iôl+-",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"I&#243;lben",
-"description":"Flood Plain (i&#244;l) Person, one (pen)",
-"transcription":"i&#244;l+pen",
+"elvish":"Iólben",
+"description":"Flood Plain (iôl) Person, one (pen)",
+"transcription":"iôl+pen",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23385,17 +23394,17 @@
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"L&#244;",
-"description":"Shallow Lake/Marshland (l&#244;) Neutral (no suffix) (-)",
-"transcription":"l&#244;+-",
+"elvish":"Lô",
+"description":"Shallow Lake/Marshland (lô) Neutral (no suffix) (-)",
+"transcription":"lô+-",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"L&#243;ben",
-"description":"Shallow Lake/Marshland (l&#244;) Person, one (pen)",
-"transcription":"l&#244;+pen",
+"elvish":"Lóben",
+"description":"Shallow Lake/Marshland (lô) Person, one (pen)",
+"transcription":"lô+pen",
 "gender":"n",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23585,9 +23594,9 @@
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"C&#237;lon",
-"description":"Cleft/Gorge (c&#238;l) Male (on)",
-"transcription":"c&#238;l+on",
+"elvish":"Cílon",
+"description":"Cleft/Gorge (cîl) Male (on)",
+"transcription":"cîl+on",
 "gender":"m",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23602,8 +23611,8 @@
 "sub_theme":"2_3"
 },{
 "elvish":"Dolon",
-"description":"Hill/Mountain (d&#244;l) Male (on)",
-"transcription":"d&#244;l+on",
+"description":"Hill/Mountain (dôl) Male (on)",
+"transcription":"dôl+on",
 "gender":"m",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23666,16 +23675,16 @@
 "sub_theme":"2_3"
 },{
 "elvish":"Ion",
-"description":"Abyss (i&#226;) Male (on)",
-"transcription":"i&#226;+on",
+"description":"Abyss (iâ) Male (on)",
+"transcription":"iâ+on",
 "gender":"m",
 "age_relationship":"",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"I&#243;lon",
-"description":"Flood Plain (i&#244;l) Male (on)",
-"transcription":"i&#244;l+on",
+"elvish":"Iólon",
+"description":"Flood Plain (iôl) Male (on)",
+"transcription":"iôl+on",
 "gender":"m",
 "age_relationship":"",
 "prime_theme":"2",
@@ -23786,184 +23795,184 @@
 "sub_theme":"2_3"
 },{
 "elvish":"Amonion",
-"description":"Hill (amon) Son of / Boy (i&#244;n)",
-"transcription":"amon+i&#244;n",
+"description":"Hill (amon) Son of / Boy (iôn)",
+"transcription":"amon+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"C&#237;lion",
-"description":"Cleft/Gorge (c&#238;l) Son of / Boy (i&#244;n)",
-"transcription":"c&#238;l+i&#244;n",
+"elvish":"Cílion",
+"description":"Cleft/Gorge (cîl) Son of / Boy (iôn)",
+"transcription":"cîl+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Dathion",
-"description":"Hole/Pit/Abyss (dath) Son of / Boy (i&#244;n)",
-"transcription":"dath+i&#244;n",
+"description":"Hole/Pit/Abyss (dath) Son of / Boy (iôn)",
+"transcription":"dath+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Dolion",
-"description":"Hill/Mountain (d&#244;l) Son of / Boy (i&#244;n)",
-"transcription":"d&#244;l+i&#244;n",
+"description":"Hill/Mountain (dôl) Son of / Boy (iôn)",
+"transcription":"dôl+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Erynion",
-"description":"Woods (eryn) Son of / Boy (i&#244;n)",
-"transcription":"eryn+i&#244;n",
+"description":"Woods (eryn) Son of / Boy (iôn)",
+"transcription":"eryn+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Falchion",
-"description":"Ravine (falch) Son of / Boy (i&#244;n)",
-"transcription":"falch+i&#244;n",
+"description":"Ravine (falch) Son of / Boy (iôn)",
+"transcription":"falch+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Gassion",
-"description":"Hole (gas) Son of / Boy (i&#244;n)",
-"transcription":"gas+i&#244;n",
+"description":"Hole (gas) Son of / Boy (iôn)",
+"transcription":"gas+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Gawion",
-"description":"Void (gaw) Son of / Boy (i&#244;n)",
-"transcription":"gaw+i&#244;n",
+"description":"Void (gaw) Son of / Boy (iôn)",
+"transcription":"gaw+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Gorthadion",
-"description":"Barrow (gorthad) Son of / Boy (i&#244;n)",
-"transcription":"gorthad+i&#244;n",
+"description":"Barrow (gorthad) Son of / Boy (iôn)",
+"transcription":"gorthad+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
-"elvish":"I&#243;lion",
-"description":"Flood Plain (i&#244;l) Son of / Boy (i&#244;n)",
-"transcription":"i&#244;l+i&#244;n",
+"elvish":"Iólion",
+"description":"Flood Plain (iôl) Son of / Boy (iôn)",
+"transcription":"iôl+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Ladion",
-"description":"Plain/Valley (lad) Son of / Boy (i&#244;n)",
-"transcription":"lad+i&#244;n",
+"description":"Plain/Valley (lad) Son of / Boy (iôn)",
+"transcription":"lad+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Lanion",
-"description":"Clearing (lant) Son of / Boy (i&#244;n)",
-"transcription":"lant+i&#244;n",
+"description":"Clearing (lant) Son of / Boy (iôn)",
+"transcription":"lant+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Maegorodion",
-"description":"Sharp Mountain (maeg+orod) Son of / Boy (i&#244;n)",
-"transcription":"maegorod+i&#244;n",
+"description":"Sharp Mountain (maeg+orod) Son of / Boy (iôn)",
+"transcription":"maegorod+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Nadhorion",
-"description":"Pasture (nadhor) Son of / Boy (i&#244;n)",
-"transcription":"nadhor+i&#244;n",
+"description":"Pasture (nadhor) Son of / Boy (iôn)",
+"transcription":"nadhor+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Nanion",
-"description":"Grassland/Valley (nan) Son of / Boy (i&#244;n)",
-"transcription":"nan+i&#244;n",
+"description":"Grassland/Valley (nan) Son of / Boy (iôn)",
+"transcription":"nan+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Orodion",
-"description":"Mountain (orod) Son of / Boy (i&#244;n)",
-"transcription":"orod+i&#244;n",
+"description":"Mountain (orod) Son of / Boy (iôn)",
+"transcription":"orod+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Rhovanion",
-"description":"Wilderness (rhovan) Son of / Boy (i&#244;n)",
-"transcription":"rhovan+i&#244;n",
+"description":"Wilderness (rhovan) Son of / Boy (iôn)",
+"transcription":"rhovan+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Talathion",
-"description":"Flatland/Plain (talath) Son of / Boy (i&#244;n)",
-"transcription":"talath+i&#244;n",
+"description":"Flatland/Plain (talath) Son of / Boy (iôn)",
+"transcription":"talath+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Talvion",
-"description":"Flatland/Field (talf) Son of / Boy (i&#244;n)",
-"transcription":"talf+i&#244;n",
+"description":"Flatland/Field (talf) Son of / Boy (iôn)",
+"transcription":"talf+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Torion",
-"description":"Forest (taur) Son of / Boy (i&#244;n)",
-"transcription":"taur+i&#244;n",
+"description":"Forest (taur) Son of / Boy (iôn)",
+"transcription":"taur+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Tolion",
-"description":"Island (tol) Son of / Boy (i&#244;n)",
-"transcription":"tol+i&#244;n",
+"description":"Island (tol) Son of / Boy (iôn)",
+"transcription":"tol+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Tunion",
-"description":"Hill/Mound (tund) Son of / Boy (i&#244;n)",
-"transcription":"tund+i&#244;n",
+"description":"Hill/Mound (tund) Son of / Boy (iôn)",
+"transcription":"tund+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
 "sub_theme":"2_3"
 },{
 "elvish":"Uilossion",
-"description":"Everlasting Whiteness [mountain] (uilos) Son of / Boy (i&#244;n)",
-"transcription":"uilos+i&#244;n",
+"description":"Everlasting Whiteness [mountain] (uilos) Son of / Boy (iôn)",
+"transcription":"uilos+iôn",
 "gender":"m",
 "age_relationship":"c",
 "prime_theme":"2",
