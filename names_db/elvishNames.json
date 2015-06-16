@@ -4736,10 +4736,6 @@
 "prime_theme":"1",
 "sub_theme":"1_1"
 },{
-
-
-
-
 "elvish":"Haldis",
 "description":"Exalted/Tall/High (hall) Bride (dîs)",
 "transcription":"hall+dîs",
@@ -5964,7 +5960,6 @@
 "prime_theme":"1",
 "sub_theme":"1_2"
 },{
-
 "elvish":"Banniel",
 "description":"Prison (band) Daughter of / Girl (iell)",
 "transcription":"band+iell",
@@ -6128,7 +6123,6 @@
 "elvish":"Iossel",
 "description":"Sanctuary (iaun) Daughter, Maiden or Girl (sell)",
 "transcription":"iaun+sell",
-
 "gender":"f",
 "age_relationship":"c",
 "prime_theme":"1",
@@ -9105,7 +9099,6 @@
 "elvish":"Lhéves",
 "description":"Thread (lhê) Wife / Married Woman (bess)",
 "transcription":"lhê+bess",
-
 "gender":"f",
 "age_relationship":"m",
 "prime_theme":"1",
@@ -9627,7 +9620,6 @@
 "description":"Born After (abonnen) Female (eth)",
 "transcription":"abonnen+eth",
 "gender":"f",
-
 "age_relationship":"",
 "prime_theme":"1",
 "sub_theme":"1_4"
@@ -14779,7 +14771,6 @@
 "prime_theme":"1",
 "sub_theme":"1_6"
 },{
-
 "elvish":"Gulthel",
 "description":"Sorcery (gûl) Sister (thêl)",
 "transcription":"gûl+thêl",
@@ -20792,7 +20783,6 @@
 "sub_theme":"2_1"
 },{
 "elvish":"Rames",
-
 "description":"To Wander (ran) Wife / Married Woman (bess)",
 "transcription":"ran+bess",
 "gender":"f",
@@ -22829,7 +22819,6 @@
 "description":"Fortress (garth) Teenage Girl (neth)",
 "transcription":"garth+neth",
 "gender":"f",
-
 "age_relationship":"y",
 "prime_theme":"2",
 "sub_theme":"2_2"
