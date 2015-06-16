@@ -40,9 +40,9 @@ div#header img{
 	float:right;
 }
 form{
-	width:99%;
+	width:99.3%;
 	display:block;
-	margin:0 2% 5px 1px;
+	margin:0 0.5% 5px 0.5%;
 	padding:0;
 	position:relative;
 	}
@@ -56,7 +56,7 @@ select{
 	box-shadow: inset 1px 1px 2px #ddd8dc;
    -webkit-appearance: none;
    -moz-appearance: none;
-   appearance: none;
+    appearance: none;
 	}
 select option{
 	margin-top:5px;
@@ -79,7 +79,7 @@ select option{
 }
 #sub_theme{
 	display: inline-block;
-	width:32%;
+	width:32.13%;
 	margin-right:0;
 	}
 
@@ -134,9 +134,16 @@ table{
 	width:100%;
 	border-spacing:0;
 	}
+table:hover{
+	color: rgba(28,131,173,0.91);
+	font-weight:bold;
+	background-color:rgba(248,248,248,1.00);
+	box-shadow: inset 1px 1px 2px #ddd8dc;
+}
 td{
 	position:relative;
 	}
+
 .left{
 	width:20%;
 	-webkit-box-shadow: inset -1px 0px 0px 0px rgba(0,0,0,1);
