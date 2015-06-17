@@ -29542,4 +29542,2236 @@
 "age_relationship":"m",
 "prime_theme":"2",
 "sub_theme":"2_4"
+},{
+"elvish":"Aear",
+"description":"Sea (aear) Neutral (no suffix) (-)",
+"transcription":"aear+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearphen",
+"description":"Sea (aear) Person, one (pen)",
+"transcription":"aear+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearon",
+"description":"Ocean (aearon) Neutral (no suffix) (-)",
+"transcription":"aearon+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearomben",
+"description":"Ocean (aearon) Person, one (pen)",
+"transcription":"aearon+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aer",
+"description":"Sea (aer) Neutral (no suffix) (-)",
+"transcription":"aer+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerphen",
+"description":"Sea (aer) Person, one (pen)",
+"transcription":"aer+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Cast",
+"description":"Cape/Cove (cast) Neutral (no suffix) (-)",
+"transcription":"cast+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casmben",
+"description":"Cape/Cove (cast) Person, one (pen)",
+"transcription":"cast+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#244;f",
+"description":"Bay (c&#244;f) Neutral (no suffix) (-)",
+"transcription":"c&#244;f+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;phen",
+"description":"Bay (c&#244;f) Person, one (pen)",
+"transcription":"c&#244;f+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinen",
+"description":"Flood/High Tide (duinen) Neutral (no suffix) (-)",
+"transcription":"duinen+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinemben",
+"description":"Flood/High Tide (duinen) Person, one (pen)",
+"transcription":"duinen+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgar",
+"description":"Shore (esgar) Neutral (no suffix) (-)",
+"transcription":"esgar+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarphen",
+"description":"Shore (esgar) Person, one (pen)",
+"transcription":"esgar+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falas",
+"description":"Beach (falas) Neutral (no suffix) (-)",
+"transcription":"falas+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falaspen",
+"description":"Beach (falas) Person, one (pen)",
+"transcription":"falas+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Faur",
+"description":"Beach/Shore (faur) Neutral (no suffix) (-)",
+"transcription":"faur+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forphen",
+"description":"Beach/Shore (faur) Person, one (pen)",
+"transcription":"faur+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaear",
+"description":"Ocean/Great Sea (gaear) Neutral (no suffix) (-)",
+"transcription":"gaear+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearphen",
+"description":"Ocean/Great Sea (gaear) Person, one (pen)",
+"transcription":"gaear+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaer",
+"description":"Sea (gaer) Neutral (no suffix) (-)",
+"transcription":"gaer+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerphen",
+"description":"Sea (gaer) Person, one (pen)",
+"transcription":"gaer+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaer",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Neutral (no suffix) (-)",
+"transcription":"glingaer+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerphen",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Person, one (pen)",
+"transcription":"glingaer+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#251;b",
+"description":"Haven/Harbor/Bay (h&#251;b) Neutral (no suffix) (-)",
+"transcription":"h&#251;b+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;ben",
+"description":"Haven/Harbor/Bay (h&#251;b) Person, one (pen)",
+"transcription":"h&#251;b+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorn",
+"description":"Harbour (lorn) Neutral (no suffix) (-)",
+"transcription":"lorn+-",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lophen",
+"description":"Harbour (lorn) Person, one (pen)",
+"transcription":"lorn+pen",
+"gender":"n",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonor",
+"description":"Ocean (aearon) Male (on)",
+"transcription":"aearon+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeron",
+"description":"Sea (aer) Male (on)",
+"transcription":"aer+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Caston",
+"description":"Cape/Cove (cast) Male (on)",
+"transcription":"cast+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;von",
+"description":"Bay (c&#244;f) Male (on)",
+"transcription":"c&#244;f+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenor",
+"description":"Flood/High Tide (duinen) Male (on)",
+"transcription":"duinen+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgaron",
+"description":"Shore (esgar) Male (on)",
+"transcription":"esgar+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasson",
+"description":"Beach (falas) Male (on)",
+"transcription":"falas+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Foron",
+"description":"Beach/Shore (faur) Male (on)",
+"transcription":"faur+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearon",
+"description":"Ocean/Great Sea (gaear) Male (on)",
+"transcription":"gaear+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeron",
+"description":"Sea (gaer) Male (on)",
+"transcription":"gaer+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaeron",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Male (on)",
+"transcription":"glingaer+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;bon",
+"description":"Haven/Harbor/Bay (h&#251;b) Male (on)",
+"transcription":"h&#251;b+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lornor",
+"description":"Harbour (lorn) Male (on)",
+"transcription":"lorn+on",
+"gender":"m",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearion",
+"description":"Sea (aear) Son of / Boy (i&#244;n)",
+"transcription":"aear+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonion",
+"description":"Ocean (aearon) Son of / Boy (i&#244;n)",
+"transcription":"aearon+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerion",
+"description":"Sea (aer) Son of / Boy (i&#244;n)",
+"transcription":"aer+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castion",
+"description":"Cape/Cove (cast) Son of / Boy (i&#244;n)",
+"transcription":"cast+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;vion",
+"description":"Bay (c&#244;f) Son of / Boy (i&#244;n)",
+"transcription":"c&#244;f+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenion",
+"description":"Flood/High Tide (duinen) Son of / Boy (i&#244;n)",
+"transcription":"duinen+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarion",
+"description":"Shore (esgar) Son of / Boy (i&#244;n)",
+"transcription":"esgar+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falassion",
+"description":"Beach (falas) Son of / Boy (i&#244;n)",
+"transcription":"falas+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forion",
+"description":"Beach/Shore (faur) Son of / Boy (i&#244;n)",
+"transcription":"faur+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearion",
+"description":"Ocean/Great Sea (gaear) Son of / Boy (i&#244;n)",
+"transcription":"gaear+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerion",
+"description":"Sea (gaer) Son of / Boy (i&#244;n)",
+"transcription":"gaer+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerion",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Son of / Boy (i&#244;n)",
+"transcription":"glingaer+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lornion",
+"description":"Harbour (lorn) Son of / Boy (i&#244;n)",
+"transcription":"lorn+i&#244;n",
+"gender":"m",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeardor",
+"description":"Sea (aear) Brother (t&#244;r)",
+"transcription":"aear+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearchon",
+"description":"Sea (aear) Brother (hawn)",
+"transcription":"aear+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearchanar",
+"description":"Sea (aear) Brother (hanar)",
+"transcription":"aear+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearothor",
+"description":"Ocean (aearon) Brother (t&#244;r)",
+"transcription":"aearon+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearochon",
+"description":"Ocean (aearon) Brother (hawn)",
+"transcription":"aearon+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerdor",
+"description":"Sea (aer) Brother (t&#244;r)",
+"transcription":"aer+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerchon",
+"description":"Sea (aer) Brother (hawn)",
+"transcription":"aer+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerchanar",
+"description":"Sea (aer) Brother (hanar)",
+"transcription":"aer+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castor",
+"description":"Cape/Cove (cast) Brother (t&#244;r)",
+"transcription":"cast+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Caschon",
+"description":"Cape/Cove (cast) Brother (hawn)",
+"transcription":"cast+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Caschanar",
+"description":"Cape/Cove (cast) Brother (hanar)",
+"transcription":"cast+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinethor",
+"description":"Flood/High Tide (duinen) Brother (t&#244;r)",
+"transcription":"duinen+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinechon",
+"description":"Flood/High Tide (duinen) Brother (hawn)",
+"transcription":"duinen+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgardor",
+"description":"Shore (esgar) Brother (t&#244;r)",
+"transcription":"esgar+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarchon",
+"description":"Shore (esgar) Brother (hawn)",
+"transcription":"esgar+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarchanar",
+"description":"Shore (esgar) Brother (hanar)",
+"transcription":"esgar+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falastor",
+"description":"Beach (falas) Brother (t&#244;r)",
+"transcription":"falas+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Fordor",
+"description":"Beach/Shore (faur) Brother (t&#244;r)",
+"transcription":"faur+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forchanar",
+"description":"Beach/Shore (faur) Brother (hanar)",
+"transcription":"faur+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeardor",
+"description":"Ocean/Great Sea (gaear) Brother (t&#244;r)",
+"transcription":"gaear+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearchon",
+"description":"Ocean/Great Sea (gaear) Brother (hawn)",
+"transcription":"gaear+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearchanar",
+"description":"Ocean/Great Sea (gaear) Brother (hanar)",
+"transcription":"gaear+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerdor",
+"description":"Sea (gaer) Brother (t&#244;r)",
+"transcription":"gaer+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerchon",
+"description":"Sea (gaer) Brother (hawn)",
+"transcription":"gaer+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerchanar",
+"description":"Sea (gaer) Brother (hanar)",
+"transcription":"gaer+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerdor",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Brother (t&#244;r)",
+"transcription":"glingaer+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerchon",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Brother (hawn)",
+"transcription":"glingaer+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerchanar",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Brother (hanar)",
+"transcription":"glingaer+hanar",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorthor",
+"description":"Harbour (lorn) Brother (t&#244;r)",
+"transcription":"lorn+t&#244;r",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorchon",
+"description":"Harbour (lorn) Brother (hawn)",
+"transcription":"lorn+hawn",
+"gender":"m",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeardir",
+"description":"Sea (aear) Young Man (d&#238;r)",
+"transcription":"aear+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearondir",
+"description":"Ocean (aearon) Young Man (d&#238;r)",
+"transcription":"aearon+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerdir",
+"description":"Sea (aer) Young Man (d&#238;r)",
+"transcription":"aer+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casdir",
+"description":"Cape/Cove (cast) Young Man (d&#238;r)",
+"transcription":"cast+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinendir",
+"description":"Flood/High Tide (duinen) Young Man (d&#238;r)",
+"transcription":"duinen+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgardir",
+"description":"Shore (esgar) Young Man (d&#238;r)",
+"transcription":"esgar+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasdir",
+"description":"Beach (falas) Young Man (d&#238;r)",
+"transcription":"falas+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Fordir",
+"description":"Beach/Shore (faur) Young Man (d&#238;r)",
+"transcription":"faur+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeardir",
+"description":"Ocean/Great Sea (gaear) Young Man (d&#238;r)",
+"transcription":"gaear+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerdir",
+"description":"Sea (gaer) Young Man (d&#238;r)",
+"transcription":"gaer+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerdir",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Young Man (d&#238;r)",
+"transcription":"glingaer+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorndir",
+"description":"Harbour (lorn) Young Man (d&#238;r)",
+"transcription":"lorn+d&#238;r",
+"gender":"m",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeardaer",
+"description":"Sea (aear) Bridegroom (daer)",
+"transcription":"aear+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearben",
+"description":"Sea (aear) Husband / Married Man (bend)",
+"transcription":"aear+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearondaer",
+"description":"Ocean (aearon) Bridegroom (daer)",
+"transcription":"aearon+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearomen",
+"description":"Ocean (aearon) Husband / Married Man (bend)",
+"transcription":"aearon+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerdaer",
+"description":"Sea (aer) Bridegroom (daer)",
+"transcription":"aer+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerben",
+"description":"Sea (aer) Husband / Married Man (bend)",
+"transcription":"aer+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castaer",
+"description":"Cape/Cove (cast) Bridegroom (daer)",
+"transcription":"cast+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casben",
+"description":"Cape/Cove (cast) Husband / Married Man (bend)",
+"transcription":"cast+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;ven",
+"description":"Bay (c&#244;f) Husband / Married Man (bend)",
+"transcription":"c&#244;f+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinendaer",
+"description":"Flood/High Tide (duinen) Bridegroom (daer)",
+"transcription":"duinen+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinemen",
+"description":"Flood/High Tide (duinen) Husband / Married Man (bend)",
+"transcription":"duinen+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgardaer",
+"description":"Shore (esgar) Bridegroom (daer)",
+"transcription":"esgar+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarben",
+"description":"Shore (esgar) Husband / Married Man (bend)",
+"transcription":"esgar+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasdaer",
+"description":"Beach (falas) Bridegroom (daer)",
+"transcription":"falas+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasben",
+"description":"Beach (falas) Husband / Married Man (bend)",
+"transcription":"falas+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Fordaer",
+"description":"Beach/Shore (faur) Bridegroom (daer)",
+"transcription":"faur+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forben",
+"description":"Beach/Shore (faur) Husband / Married Man (bend)",
+"transcription":"faur+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeardaer",
+"description":"Ocean/Great Sea (gaear) Bridegroom (daer)",
+"transcription":"gaear+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearben",
+"description":"Ocean/Great Sea (gaear) Husband / Married Man (bend)",
+"transcription":"gaear+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerdaer",
+"description":"Sea (gaer) Bridegroom (daer)",
+"transcription":"gaer+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerben",
+"description":"Sea (gaer) Husband / Married Man (bend)",
+"transcription":"gaer+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerdaer",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Bridegroom (daer)",
+"transcription":"glingaer+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerben",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Husband / Married Man (bend)",
+"transcription":"glingaer+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorndaer",
+"description":"Harbour (lorn) Bridegroom (daer)",
+"transcription":"lorn+daer",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lormen",
+"description":"Harbour (lorn) Husband / Married Man (bend)",
+"transcription":"lorn+bend",
+"gender":"m",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeareth",
+"description":"Sea (aear) Female (eth)",
+"transcription":"aear+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearel",
+"description":"Sea (aear) Female (el)",
+"transcription":"aear+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearil",
+"description":"Sea (aear) Female (il)",
+"transcription":"aear+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearoneth",
+"description":"Ocean (aearon) Female (eth)",
+"transcription":"aearon+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonel",
+"description":"Ocean (aearon) Female (el)",
+"transcription":"aearon+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonil",
+"description":"Ocean (aearon) Female (il)",
+"transcription":"aearon+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aereth",
+"description":"Sea (aer) Female (eth)",
+"transcription":"aer+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerel",
+"description":"Sea (aer) Female (el)",
+"transcription":"aer+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeril",
+"description":"Sea (aer) Female (il)",
+"transcription":"aer+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casteth",
+"description":"Cape/Cove (cast) Female (eth)",
+"transcription":"cast+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castel",
+"description":"Cape/Cove (cast) Female (el)",
+"transcription":"cast+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Cestil",
+"description":"Cape/Cove (cast) Female (il)",
+"transcription":"cast+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;veth",
+"description":"Bay (c&#244;f) Female (eth)",
+"transcription":"c&#244;f+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;vel",
+"description":"Bay (c&#244;f) Female (el)",
+"transcription":"c&#244;f+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#233;vil",
+"description":"Bay (c&#244;f) Female (il)",
+"transcription":"c&#244;f+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duineneth",
+"description":"Flood/High Tide (duinen) Female (eth)",
+"transcription":"duinen+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenel",
+"description":"Flood/High Tide (duinen) Female (el)",
+"transcription":"duinen+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenil",
+"description":"Flood/High Tide (duinen) Female (il)",
+"transcription":"duinen+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgareth",
+"description":"Shore (esgar) Female (eth)",
+"transcription":"esgar+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarel",
+"description":"Shore (esgar) Female (el)",
+"transcription":"esgar+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgeril",
+"description":"Shore (esgar) Female (il)",
+"transcription":"esgar+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasseth",
+"description":"Beach (falas) Female (eth)",
+"transcription":"falas+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falassel",
+"description":"Beach (falas) Female (el)",
+"transcription":"falas+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Felessil",
+"description":"Beach (falas) Female (il)",
+"transcription":"falas+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Foreth",
+"description":"Beach/Shore (faur) Female (eth)",
+"transcription":"faur+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forel",
+"description":"Beach/Shore (faur) Female (el)",
+"transcription":"faur+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Feril",
+"description":"Beach/Shore (faur) Female (il)",
+"transcription":"faur+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeareth",
+"description":"Ocean/Great Sea (gaear) Female (eth)",
+"transcription":"gaear+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearel",
+"description":"Ocean/Great Sea (gaear) Female (el)",
+"transcription":"gaear+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearil",
+"description":"Ocean/Great Sea (gaear) Female (il)",
+"transcription":"gaear+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaereth",
+"description":"Sea (gaer) Female (eth)",
+"transcription":"gaer+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerel",
+"description":"Sea (gaer) Female (el)",
+"transcription":"gaer+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeril",
+"description":"Sea (gaer) Female (il)",
+"transcription":"gaer+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaereth",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Female (eth)",
+"transcription":"glingaer+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerel",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Female (el)",
+"transcription":"glingaer+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaeril",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Female (il)",
+"transcription":"glingaer+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;beth",
+"description":"Haven/Harbor/Bay (h&#251;b) Female (eth)",
+"transcription":"h&#251;b+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;bel",
+"description":"Haven/Harbor/Bay (h&#251;b) Female (el)",
+"transcription":"h&#251;b+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#253;bil",
+"description":"Haven/Harbor/Bay (h&#251;b) Female (il)",
+"transcription":"h&#251;b+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorneth",
+"description":"Harbour (lorn) Female (eth)",
+"transcription":"lorn+eth",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lornel",
+"description":"Harbour (lorn) Female (el)",
+"transcription":"lorn+el",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lernil",
+"description":"Harbour (lorn) Female (il)",
+"transcription":"lorn+il",
+"gender":"f",
+"age_relationship":"",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearien",
+"description":"Sea (aear) Daughter of / Girl (ien)",
+"transcription":"aear+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeariel",
+"description":"Sea (aear) Daughter of / Girl (iell)",
+"transcription":"aear+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearhel",
+"description":"Sea (aear) Daughter, Maiden or Girl (sell)",
+"transcription":"aear+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonien",
+"description":"Ocean (aearon) Daughter of / Girl (ien)",
+"transcription":"aearon+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearoniel",
+"description":"Ocean (aearon) Daughter of / Girl (iell)",
+"transcription":"aearon+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearossel",
+"description":"Ocean (aearon) Daughter, Maiden or Girl (sell)",
+"transcription":"aearon+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerien",
+"description":"Sea (aer) Daughter of / Girl (ien)",
+"transcription":"aer+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeriel",
+"description":"Sea (aer) Daughter of / Girl (iell)",
+"transcription":"aer+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerhel",
+"description":"Sea (aer) Daughter, Maiden or Girl (sell)",
+"transcription":"aer+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castien",
+"description":"Cape/Cove (cast) Daughter of / Girl (ien)",
+"transcription":"cast+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castiel",
+"description":"Cape/Cove (cast) Daughter of / Girl (iell)",
+"transcription":"cast+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Cassel",
+"description":"Cape/Cove (cast) Daughter, Maiden or Girl (sell)",
+"transcription":"cast+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;vien",
+"description":"Bay (c&#244;f) Daughter of / Girl (ien)",
+"transcription":"c&#244;f+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;viel",
+"description":"Bay (c&#244;f) Daughter of / Girl (iell)",
+"transcription":"c&#244;f+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenien",
+"description":"Flood/High Tide (duinen) Daughter of / Girl (ien)",
+"transcription":"duinen+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duineniel",
+"description":"Flood/High Tide (duinen) Daughter of / Girl (iell)",
+"transcription":"duinen+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinessel",
+"description":"Flood/High Tide (duinen) Daughter, Maiden or Girl (sell)",
+"transcription":"duinen+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarien",
+"description":"Shore (esgar) Daughter of / Girl (ien)",
+"transcription":"esgar+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgariel",
+"description":"Shore (esgar) Daughter of / Girl (iell)",
+"transcription":"esgar+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarhel",
+"description":"Shore (esgar) Daughter, Maiden or Girl (sell)",
+"transcription":"esgar+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falassien",
+"description":"Beach (falas) Daughter of / Girl (ien)",
+"transcription":"falas+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falassiel",
+"description":"Beach (falas) Daughter of / Girl (iell)",
+"transcription":"falas+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forien",
+"description":"Beach/Shore (faur) Daughter of / Girl (ien)",
+"transcription":"faur+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Foriel",
+"description":"Beach/Shore (faur) Daughter of / Girl (iell)",
+"transcription":"faur+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forhel",
+"description":"Beach/Shore (faur) Daughter, Maiden or Girl (sell)",
+"transcription":"faur+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearien",
+"description":"Ocean/Great Sea (gaear) Daughter of / Girl (ien)",
+"transcription":"gaear+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeariel",
+"description":"Ocean/Great Sea (gaear) Daughter of / Girl (iell)",
+"transcription":"gaear+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearhel",
+"description":"Ocean/Great Sea (gaear) Daughter, Maiden or Girl (sell)",
+"transcription":"gaear+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerien",
+"description":"Sea (gaer) Daughter of / Girl (ien)",
+"transcription":"gaer+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeriel",
+"description":"Sea (gaer) Daughter of / Girl (iell)",
+"transcription":"gaer+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerhel",
+"description":"Sea (gaer) Daughter, Maiden or Girl (sell)",
+"transcription":"gaer+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerien",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Daughter of / Girl (ien)",
+"transcription":"glingaer+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaeriel",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Daughter of / Girl (iell)",
+"transcription":"glingaer+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerhel",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Daughter, Maiden or Girl (sell)",
+"transcription":"glingaer+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;bien",
+"description":"Haven/Harbor/Bay (h&#251;b) Daughter of / Girl (ien)",
+"transcription":"h&#251;b+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;biel",
+"description":"Haven/Harbor/Bay (h&#251;b) Daughter of / Girl (iell)",
+"transcription":"h&#251;b+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lornien",
+"description":"Harbour (lorn) Daughter of / Girl (ien)",
+"transcription":"lorn+ien",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorniel",
+"description":"Harbour (lorn) Daughter of / Girl (iell)",
+"transcription":"lorn+iell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorsel",
+"description":"Harbour (lorn) Daughter, Maiden or Girl (sell)",
+"transcription":"lorn+sell",
+"gender":"f",
+"age_relationship":"c",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearnith",
+"description":"Sea (aear) Sister (n&#238;th)",
+"transcription":"aear+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearthel",
+"description":"Sea (aear) Sister (th&#234;l)",
+"transcription":"aear+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonith",
+"description":"Ocean (aearon) Sister (n&#238;th)",
+"transcription":"aearon+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearonthel",
+"description":"Ocean (aearon) Sister (th&#234;l)",
+"transcription":"aearon+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aernith",
+"description":"Sea (aer) Sister (n&#238;th)",
+"transcription":"aer+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerthel",
+"description":"Sea (aer) Sister (th&#234;l)",
+"transcription":"aer+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castnith",
+"description":"Cape/Cove (cast) Sister (n&#238;th)",
+"transcription":"cast+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casthel",
+"description":"Cape/Cove (cast) Sister (th&#234;l)",
+"transcription":"cast+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenith",
+"description":"Flood/High Tide (duinen) Sister (n&#238;th)",
+"transcription":"duinen+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinenthel",
+"description":"Flood/High Tide (duinen) Sister (th&#234;l)",
+"transcription":"duinen+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarnith",
+"description":"Shore (esgar) Sister (n&#238;th)",
+"transcription":"esgar+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarthel",
+"description":"Shore (esgar) Sister (th&#234;l)",
+"transcription":"esgar+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearnith",
+"description":"Ocean/Great Sea (gaear) Sister (n&#238;th)",
+"transcription":"gaear+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearthel",
+"description":"Ocean/Great Sea (gaear) Sister (th&#234;l)",
+"transcription":"gaear+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaernith",
+"description":"Sea (gaer) Sister (n&#238;th)",
+"transcription":"gaer+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerthel",
+"description":"Sea (gaer) Sister (th&#234;l)",
+"transcription":"gaer+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaernith",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Sister (n&#238;th)",
+"transcription":"glingaer+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerthel",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Sister (th&#234;l)",
+"transcription":"glingaer+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lornith",
+"description":"Harbour (lorn) Sister (n&#238;th)",
+"transcription":"lorn+n&#238;th",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorthel",
+"description":"Harbour (lorn) Sister (th&#234;l)",
+"transcription":"lorn+th&#234;l",
+"gender":"f",
+"age_relationship":"b_s",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearwen",
+"description":"Sea (aear) Maiden and Virgin (gwend)",
+"transcription":"aear+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearneth",
+"description":"Sea (aear) Teenage Girl (neth)",
+"transcription":"aear+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeardes",
+"description":"Sea (aear) Young Woman (dess)",
+"transcription":"aear+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearongwen",
+"description":"Ocean (aearon) Maiden and Virgin (gwend)",
+"transcription":"aearon+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearondes",
+"description":"Ocean (aearon) Young Woman (dess)",
+"transcription":"aearon+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerwen",
+"description":"Sea (aer) Maiden and Virgin (gwend)",
+"transcription":"aer+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerneth",
+"description":"Sea (aer) Teenage Girl (neth)",
+"transcription":"aer+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerdes",
+"description":"Sea (aer) Young Woman (dess)",
+"transcription":"aer+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Caswen",
+"description":"Cape/Cove (cast) Maiden and Virgin (gwend)",
+"transcription":"cast+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Castneth",
+"description":"Cape/Cove (cast) Teenage Girl (neth)",
+"transcription":"cast+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casdes",
+"description":"Cape/Cove (cast) Young Woman (dess)",
+"transcription":"cast+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinengwen",
+"description":"Flood/High Tide (duinen) Maiden and Virgin (gwend)",
+"transcription":"duinen+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinendes",
+"description":"Flood/High Tide (duinen) Young Woman (dess)",
+"transcription":"duinen+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarwen",
+"description":"Shore (esgar) Maiden and Virgin (gwend)",
+"transcription":"esgar+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarneth",
+"description":"Shore (esgar) Teenage Girl (neth)",
+"transcription":"esgar+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgardes",
+"description":"Shore (esgar) Young Woman (dess)",
+"transcription":"esgar+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falaswen",
+"description":"Beach (falas) Maiden and Virgin (gwend)",
+"transcription":"falas+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasdes",
+"description":"Beach (falas) Young Woman (dess)",
+"transcription":"falas+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forwen",
+"description":"Beach/Shore (faur) Maiden and Virgin (gwend)",
+"transcription":"faur+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Fordes",
+"description":"Beach/Shore (faur) Young Woman (dess)",
+"transcription":"faur+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearwen",
+"description":"Ocean/Great Sea (gaear) Maiden and Virgin (gwend)",
+"transcription":"gaear+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearneth",
+"description":"Ocean/Great Sea (gaear) Teenage Girl (neth)",
+"transcription":"gaear+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeardes",
+"description":"Ocean/Great Sea (gaear) Young Woman (dess)",
+"transcription":"gaear+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerwen",
+"description":"Sea (gaer) Maiden and Virgin (gwend)",
+"transcription":"gaer+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerneth",
+"description":"Sea (gaer) Teenage Girl (neth)",
+"transcription":"gaer+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerdes",
+"description":"Sea (gaer) Young Woman (dess)",
+"transcription":"gaer+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerwen",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Maiden and Virgin (gwend)",
+"transcription":"glingaer+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerneth",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Teenage Girl (neth)",
+"transcription":"glingaer+neth",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerdes",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Young Woman (dess)",
+"transcription":"glingaer+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorngwen",
+"description":"Harbour (lorn) Maiden and Virgin (gwend)",
+"transcription":"lorn+gwend",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorndes",
+"description":"Harbour (lorn) Young Woman (dess)",
+"transcription":"lorn+dess",
+"gender":"f",
+"age_relationship":"y",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aeardis",
+"description":"Sea (aear) Bride (d&#238;s)",
+"transcription":"aear+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearbes",
+"description":"Sea (aear) Wife / Married Woman (bess)",
+"transcription":"aear+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearondis",
+"description":"Ocean (aearon) Bride (d&#238;s)",
+"transcription":"aearon+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aearomes",
+"description":"Ocean (aearon) Wife / Married Woman (bess)",
+"transcription":"aearon+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerdis",
+"description":"Sea (aer) Bride (d&#238;s)",
+"transcription":"aer+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Aerbes",
+"description":"Sea (aer) Wife / Married Woman (bess)",
+"transcription":"aer+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casdis",
+"description":"Cape/Cove (cast) Bride (d&#238;s)",
+"transcription":"cast+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Casbes",
+"description":"Cape/Cove (cast) Wife / Married Woman (bess)",
+"transcription":"cast+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"C&#243;ves",
+"description":"Bay (c&#244;f) Wife / Married Woman (bess)",
+"transcription":"c&#244;f+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinendis",
+"description":"Flood/High Tide (duinen) Bride (d&#238;s)",
+"transcription":"duinen+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Duinemes",
+"description":"Flood/High Tide (duinen) Wife / Married Woman (bess)",
+"transcription":"duinen+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgardis",
+"description":"Shore (esgar) Bride (d&#238;s)",
+"transcription":"esgar+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Esgarbes",
+"description":"Shore (esgar) Wife / Married Woman (bess)",
+"transcription":"esgar+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasdis",
+"description":"Beach (falas) Bride (d&#238;s)",
+"transcription":"falas+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Falasbes",
+"description":"Beach (falas) Wife / Married Woman (bess)",
+"transcription":"falas+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Fordis",
+"description":"Beach/Shore (faur) Bride (d&#238;s)",
+"transcription":"faur+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Forbes",
+"description":"Beach/Shore (faur) Wife / Married Woman (bess)",
+"transcription":"faur+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaeardis",
+"description":"Ocean/Great Sea (gaear) Bride (d&#238;s)",
+"transcription":"gaear+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaearbes",
+"description":"Ocean/Great Sea (gaear) Wife / Married Woman (bess)",
+"transcription":"gaear+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerdis",
+"description":"Sea (gaer) Bride (d&#238;s)",
+"transcription":"gaer+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Gaerbes",
+"description":"Sea (gaer) Wife / Married Woman (bess)",
+"transcription":"gaer+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerdis",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Bride (d&#238;s)",
+"transcription":"glingaer+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Glingaerbes",
+"description":"The Sea Gleams in the Eyes (gl&#238;n+gaer) Wife / Married Woman (bess)",
+"transcription":"glingaer+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"H&#250;bes",
+"description":"Haven/Harbor/Bay (h&#251;b) Wife / Married Woman (bess)",
+"transcription":"h&#251;b+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lorndis",
+"description":"Harbour (lorn) Bride (d&#238;s)",
+"transcription":"lorn+d&#238;s",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
+},{
+"elvish":"Lormes",
+"description":"Harbour (lorn) Wife / Married Woman (bess)",
+"transcription":"lorn+bess",
+"gender":"f",
+"age_relationship":"m",
+"prime_theme":"2",
+"sub_theme":"2_5"
 }]
